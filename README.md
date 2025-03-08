@@ -66,5 +66,9 @@ This Weather App is a practical implementation of REST API consumption, Spring B
 
 Sample output 1:
 
-https://github.com/PayalOjha888/REST-API-CLIENT/issues/1#issue-2904705020
+![Image](https://github.com/user-attachments/assets/8c3f1bbe-b6a9-4156-a9a0-8fc1c823c65e)
+
+Sample output 2:
+
+![Image](https://github.com/user-attachments/assets/8c3f1bbe-b6a9-4156-a9a0-8fc1c823c65e)
 
