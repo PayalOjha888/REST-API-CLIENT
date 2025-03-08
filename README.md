@@ -72,3 +72,6 @@ Sample output 2:
 
 ![Image](https://github.com/user-attachments/assets/8c3f1bbe-b6a9-4156-a9a0-8fc1c823c65e)
 
+Sample output 3: In case of loose internet connection, when API fails to fetch data...
+
+![Image](https://github.com/user-attachments/assets/b8fdda14-f360-45bd-848c-adec25480c62)
