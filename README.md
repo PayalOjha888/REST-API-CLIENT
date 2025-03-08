@@ -64,5 +64,7 @@ Error Handling and Edge Cases:
 
 This Weather App is a practical implementation of REST API consumption, Spring Boot development, and JSON parsing in Java. It serves as an excellent starting point for developers looking to build Java-based web applications with real-time data processing.
 
-Output screenshot: 
+Sample output 1:
+
+https://github.com/PayalOjha888/REST-API-CLIENT/issues/1#issue-2904705020
 
