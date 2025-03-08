@@ -70,7 +70,7 @@ Sample output 1:
 
 Sample output 2:
 
-
+![Image](https://github.com/user-attachments/assets/e8291149-ea6a-4123-b86f-3304d8d7032d)
 
 Sample output 3: In case of loose internet connection, when API fails to fetch data...
 
